@@ -1,11 +1,11 @@
 /**
- * @author @italijancic
+ * @author      @italijancic
  *
  * @description File to example documentation an a right way of document code
- * @sumary pc-2023 examples
+ * @sumary      pc-2023 examples
  *
- * Created at:  11-05-2023
- * Last modified:  11-05-2023
+ * Created at:    11-05-2023
+ * Last modified: 11-05-2023
  */
 
 // Data types
